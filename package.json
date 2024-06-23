@@ -1,0 +1,20 @@
+{
+  "name": "web-assessment",
+  "version": "1.0.0",
+  "description": "Web UI Automation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Assessment"
+  ],
+  "author": "Mumin Abubakar",
+  "license": "ISC",
+  "devDependencies": {
+    "@badeball/cypress-cucumber-preprocessor": "^20.0.7",
+    "@cypress/browserify-preprocessor": "^3.0.2",
+    "cypress": "^13.12.0",
+    "typescript": "^5.4.5"
+  }
+}
